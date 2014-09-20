@@ -1,7 +1,7 @@
 Getting And Creating Data
 ======================
 <br/>
-ClassProject
+Class Project
 Joe Coggins
 
 Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.
